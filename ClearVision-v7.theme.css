@@ -26,7 +26,7 @@
   --offline-color: #808080;
   /* APP BACKGROUND */
   --background-shading-percent: 100%;
-  --background-image: url(https://clearvision.github.io/images/sapphire.jpg);
+  --background-image: url(https://static.wikia.nocookie.net/sk8theinfinity/images/1/15/Reki_and_Langa_looking_at_skating_wheels.png/revision/latest?cb=20210329181835);
   --background-attachment: fixed;
   --background-filter: saturate(calc(var(--saturation-factor, 1) * 1));
   /* USER POPOUT BACKGROUND */
